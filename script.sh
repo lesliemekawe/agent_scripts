@@ -4,6 +4,8 @@
 
 #description: script to display info
 
+#author: serge
+#Date july 2020
 
 
 lscpu
